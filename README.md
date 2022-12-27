@@ -57,6 +57,6 @@ int main()
 
 - Q3. Print a number 100 times without using loop and recursion.
 
-I tried using recursion to print it n number of times and used unsigned integer keyword hoping the iterations stop at 0 but they didn't and it's printing till infinity. So here's my attempt -
+I tried using recursion to print it n number of times and used unsigned integer keyword hoping the iterations stop at 0 but they didn't and it's printing till infinity. So here's my attempt in the commented code -
 
 [Code](/Program_Codes/Q3/testing.cpp)

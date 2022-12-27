@@ -1,6 +1,7 @@
+/*
 #include <iostream>
 
-using namespace std;
+    using namespace std;
 
 int print(int a, unsigned int n)
 {
@@ -16,5 +17,27 @@ int main()
     cout << "\nEnter a number: ";
     cin >> num;
     print(num, times);
+    return 0;
+}
+*/
+
+#include <iostream>
+using std::cout;
+
+class Number
+{
+
+public:
+    Number()
+    {
+        cout << 54 << "\n";
+    }
+};
+
+int main()
+{
+    int N = 100;
+
+    Number obj[N];
     return 0;
 }
