@@ -18,3 +18,8 @@ Then we will shift all the elements to the right of the position found one place
 
 [Sample Code](/Testing/Q2/testing.cpp)
 
+
+## Program
+
+- Q2. Program to find the Maximum and minimum of two numbers without using any loop or condition
+
