@@ -28,6 +28,10 @@ Then we will shift all the elements to the right of the position found one place
 
 - Q1. Implement the best sorting algorithm that you know & also explain why it is the best.
 
+I know only Binary sorting and Selection Sorting algorithms as of now. Of them two I think Selection sort is the best sorting algorithm as the number of iterations it performs to sort the array is lesser than that taken by Binary Sort.
+
+[Code](/Program_Codes/Q1/testing.cpp)
+
 - Q2. Program to find the Maximum and minimum of two numbers without using any loop or condition.
 
 Directly use the inbuilt `max` and `min` functions
@@ -52,3 +56,7 @@ int main()
 ```
 
 - Q3. Print a number 100 times without using loop and recursion.
+
+I tried using recursion to print it n number of times and used unsigned integer keyword hoping the iterations stop at 0 but they didn't and it's printing till infinity. So here's my attempt -
+
+[Code](/Program_Codes/Q3/testing.cpp)
