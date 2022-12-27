@@ -26,9 +26,11 @@ Then we will shift all the elements to the right of the position found one place
 
 ## Program
 
-- Q2. Program to find the Maximum and minimum of two numbers without using any loop or condition
+- Q1. Implement the best sorting algorithm that you know & also explain why it is the best.
 
-Directly use the inbuilt `max` and `min` functions 
+- Q2. Program to find the Maximum and minimum of two numbers without using any loop or condition.
+
+Directly use the inbuilt `max` and `min` functions
 
 [Code](/Program_Codes/Q2/testing.cpp)
 
@@ -48,3 +50,5 @@ int main()
     return 0;
 }
 ```
+
+- Q3. Print a number 100 times without using loop and recursion.
