@@ -18,6 +18,11 @@ Then we will shift all the elements to the right of the position found one place
 
 [Sample Code](/Theory_Codes/Q2/testing.cpp)
 
+- Q3. Difference between float, double, long and int?
+    - `int` is a data type used to store whole integers such as -45 or 5738
+    - `long` is a data type used to store longer values of integers when integers start losing their precision after a limit
+    - `float` is a data type used to store numbers with decimal values for ex 45.822 but with a precision of upto around 6-7 decimal places
+    - `double` is a data type used to store numbers with decimal values but with a precision of around 13 decimal places
 
 ## Program
 
